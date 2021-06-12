@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net4.5</TargetFramework>
+    <RootNamespace>DarkRift.Nat</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="$(UserProfile)/.darkrift/installed/Pro/Framework/2.8.0/Lib/DarkRift.dll" />
+    <Reference Include="$(UserProfile)/.darkrift/installed/Pro/Framework/2.8.0/Lib/DarkRift.Server.dll" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Open.NAT" Version="2.1.0.0" />
+  </ItemGroup>
+</Project>
