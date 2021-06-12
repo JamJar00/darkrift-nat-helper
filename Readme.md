@@ -5,6 +5,8 @@ Inevitably, DarkRift isn't designed for peer-to-peer networking so really this i
 
 This project is unmaintained and I probably won't accept PRs/respond to issues on it.
 
+Requires Darkrift Pro.
+
 ## Usage
 Probably built with something like this (I haven't checked recently):
 ```bash
